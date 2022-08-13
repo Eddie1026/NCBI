@@ -1,0 +1,1 @@
+993342 1489 1502 C2 deficiency SpecificDisease OMIM:217000

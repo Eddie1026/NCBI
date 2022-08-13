@@ -1,0 +1,1 @@
+9856498 289 302 C6 deficiency SpecificDisease OMIM:612446

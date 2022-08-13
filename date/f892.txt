@@ -1,0 +1,1 @@
+993342 734 747 C2 deficiency SpecificDisease OMIM:217000
